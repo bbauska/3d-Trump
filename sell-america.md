@@ -1,1 +1,2 @@
 # Sell America 2025-???
+Sell America is a financial market term used to describe a broad investment trend from April 2025 in which investors reduce exposure to United States assets, including the U.S. dollar, U.S. equities, and U.S. government bonds. The phenomenon emerged after United States president Donald Trump announced the threat of his Liberation Day tariffs. This resulted in geopolitical tensions and trade policy uncertainty that unsettled global markets.[1]
