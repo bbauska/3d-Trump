@@ -19,6 +19,10 @@ tensions and trade policy uncertainty that unsettled global markets.[1]</p>
 
 <p>The term is descriptive rather than technical and does not refer to a specific financial instrument or coordinated strategy. It is comparable to other market shorthand phrases used to characterize shifts in investor sentiment toward particular countries or regions.</p>
 
+<h2>Now Trump fuckups</h2>
+<h5>And there are thousands so far.</h5>
+https://en.wikipedia.org/wiki/List_of_executive_actions_by_Donald_Trump
+
 <p>The phrase "Sell America trade" re-emerged prominently in January 2026 following renewed geopolitical uncertainty and policy statements from the Trump administration, especially diplomatic disputes around the potential unwelcome American annexation of Greenland.[3]</p>
 
 <p>Analysts described the movement as a coordinated reassessment of U.S. asset risk rather than a response to a single economic indicator.[4]</p>
