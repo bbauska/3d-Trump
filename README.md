@@ -1,4 +1,4 @@
-# 3d-Trump (Reagan/Bush/Bush ii) 45 years of Fuck You America! (as of March, 2026)
+# 3d-Trump (Reagan/Bush/Bush ii) 40 years of Fuck You Americans! (as of March, 2026)
 Moving more than 50 trillion dollars from the masses to 1,000 families in America.
 3d readout of Trump's grift, idiocy, list of sycophants, and so much more. Sadly, Trump is fuckin' the world. Yet it all started in 1980 with Ronald 'Fuckin' Reagan. An American despot who initiated the moving of all the wealth and treasure to right-wing cunts. Use religion and lies to screw the American people.
 
