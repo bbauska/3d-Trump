@@ -1,7 +1,7 @@
 /* 3d-Trump/js/script.js for 3d-Trump.bauska.org */
 // Place text "statement of Trump lies" into const readOut.
 const readOut = `<p><span>Authoritarianism</span> permiates everything, everyone, at some 
-level. Education for families becomes privates schooling. That is just one example. As the 
+level. Education for families becomes private schooling. That is just one example. As the 
 rise of authoritarianism grows, we must fight back. Give hugs. Talk about it.<br>
 <span>MAGA</span> includes the uneducated, the selfish, the racist, and the very stupid. 
 Mostly <span>stupid</span>.
