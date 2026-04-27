@@ -1,7 +1,6 @@
 /* 3d-Trump/js/script.js for readout.bauska.org */
 // Place text "statement of Trump lies" into const readOut.
-const readOut = `<p>
-<p>Authoritarianism permiates everything, everyone, at some level. Education for families becomes 
+const readOut = `<p>Authoritarianism permiates everything, everyone, at some level. Education for families becomes 
 privates schooling. That is just one huge example. Huge example. As the rise of authoritarianism 
 becomes more, we must fight back. Give hugs. Talk about it.</p>
 
