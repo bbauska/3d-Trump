@@ -1,4 +1,4 @@
-<h2>The $1.7 trillion military budget includes a massive slush fund for Trump’s political allies</h2>
+<h2>The $1.7 trillion military budget (dept of war) includes a massive slush fund for Trump’s political allies</h2>
 
 Last week (Mar 31, 2026), President Donald Trump declared that the federal government cannot afford 
 to spend “any money for day care” because “we’re fighting wars.” According to Trump, the well-being 
@@ -35,7 +35,7 @@ Thus far, the White House has released few details about exactly how the Pentago
 money. But we do know this: many billions of dollars will be directed to Trump’s political allies 
 to pay for unproven technology that some experts believe will never work.
 
-The Pentagon’s golden egg
+<h2>The Pentagon’s golden egg</h2>
 While there is no money for childcare, Trump’s defense budget allocates at least $17.5 billion to 
 the “Golden Dome” — a space-based missile defense system. This is in addition to $25 billion that 
 was earmarked for the project last year.
@@ -92,7 +92,7 @@ Bezos has prioritized improving relations with Trump, turning the Washington Pos
 into a conservative mouthpiece. The effort appears to be working. Trump praised Bezos as a “good 
 guy“ who is trying to be “more fair” at the Washington Post.
 
-$350 billion with little oversight
+<h2>$350 billion with little oversight</h2>
 Of the $1.5 trillion in military spending Trump is requesting, $350 billion is set to come through 
 the budget reconciliation process, instead of the typical appropriations process. This $350 billion 
 will include nearly all of the funding for the Golden Dome, meaning there will be little Congressional 
@@ -136,6 +136,3 @@ billion of the funds with certain Congressional committees. The other $60 billio
 for until late February, when DOD declassified its spending plan. While some of the details are 
 still classified, it is now clear that DOD plans to spend all $150 billion during fiscal year 2026, 
 even though some of the funds were to be spent over a period of five years.
-
-
-
