@@ -4,7 +4,7 @@ Moving more than 50 trillion dollars from the masses to 1,000 families in Americ
 
 Lowered taxes for the filthy rich. Blame the poor and attack immigrants. 'They' are the problem. Not the rich. Defund the social safety net. Cut schools and fund the build up of the military to keep power. Flex, flex, flex. Create carnage to get everyone's eye off the ball.
 
-Now, as in then, flood the zone with lies and disinformation. Deregulate to polute. Cut alternative energy. Create fox news and lie, lie, lie.
+Now, as in then, flood the zone with lies and disinformation. Deregulate the polluters. Cut alternative energy. Create fox news and lie, lie, lie.
 
 
 How big is this elephant? A staggering $50 trillion. That is how much the upward redistribution of income has cost American workers over the past several decades.
