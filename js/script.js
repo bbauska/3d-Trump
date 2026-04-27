@@ -1,22 +1,8 @@
 /* 3d-Trump/js/script.js for readout.bauska.org */
 // Place text "statement of Trump lies" into const readOut.
 const readOut = `<p>Authoritarianism permiates everything, everyone, at some level. Education for families becomes 
-privates schooling. That is just one huge example. Huge example. As the rise of authoritarianism 
+privates schooling. That is just one huge example. Huge example. As the rise of <span>authoritarianism</span> 
 becomes more, we must fight back. Give hugs. Talk about it.</p>`;
-<!--
-<p><span>MAGA</span> includes the uneducated, selfish, and stupid. Mostly <span>stupid</span>.
-<p><span>War</span> is a risky business. More American casualties, <span>sky-high gas</span> prices 
-and a <span>higher cost</span> of living 
-could provoke previous Trump supporters to turn against the president, belatedly fulfilling the 
-assessment that Trump’s decision to go to war defies the desires of his base. But that may be a 
-long way off. After all, most MAGA supporters voted for the man three fucking times — and would 
-vote for him another three times if they could. Concluding he was wrong about the war might mean 
-he was wrong about other things, too … and thus, they themselves were wrong to believe in his 
-judgment so fervently.</p>
-<p><span>CARS</span> = 
-<span>Connecting</span>  <span>Analyzing</span>  <span>Responding</span> <span>Setting limits</span>
-<span>CARS</span></p>`;
--->
   
 // Function to insert silusGW into divs
 function insertreadOutIntoDivs() {
