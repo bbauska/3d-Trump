@@ -11,7 +11,9 @@ the president, belatedly fulfilling the assessment that Trump’s decision to go
 desires of his base. But that may be a long way off. After all, most MAGA supporters voted for the 
 man three fucking times — and would vote for him another three times if they could. Concluding he 
 was wrong about the war might mean he was wrong about other things, too … and thus, they themselves 
-were wrong to believe in his judgment so fervently.</p>`;
+were wrong to believe in his judgment so fervently.
+<span>White House Correspondents Dinner</span> was a joke. So pathetic. Trump blocks news at every 
+chance. So they have a dinner for him. WTF? WTF? WTF? Authoritarian. Our president my ass!</p>`;
   
 // Function to insert silusGW into divs
 function insertreadOutIntoDivs() {
