@@ -2,7 +2,8 @@
 // Place text "statement of Trump lies" into const readOut.
 const readOut = `<p>Authoritarianism permiates everything, everyone, at some level. Education for families becomes 
 privates schooling. That is just one huge example. Huge example. As the rise of authoritarianism 
-becomes more, we must fight back. Give hugs. Talk about it.</p>
+becomes more, we must fight back. Give hugs. Talk about it.</p>`;
+<!--
 <p><span>MAGA</span> includes the uneducated, selfish, and stupid. Mostly <span>stupid</span>.
 <p><span>War</span> is a risky business. More American casualties, <span>sky-high gas</span> prices 
 and a <span>higher cost</span> of living 
@@ -15,7 +16,8 @@ judgment so fervently.</p>
 <p><span>CARS</span> = 
 <span>Connecting</span>  <span>Analyzing</span>  <span>Responding</span> <span>Setting limits</span>
 <span>CARS</span></p>`;
-
+-->
+  
 // Function to insert silusGW into divs
 function insertreadOutIntoDivs() {
   // Get all .text divs
