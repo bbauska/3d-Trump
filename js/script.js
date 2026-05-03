@@ -5,7 +5,7 @@ level. Education for families becomes private schooling. That is just one exampl
 rise of authoritarianism grows, we must fight back. Give hugs. Talk about it. 
 <span>MAGA</span> includes the uneducated, the selfish, the racist, and the very stupid. 
 Mostly <span>stupid</span>. <span>War</span> is a profit-business. Follow the money, and 
-the deutche-bags making that money. Wall Street Sucks BTW. War is a risky business. American 
+the deutche-bags making that money. <mark>Wall Street Sucks</mark> BTW. War is a risky business. American 
 casualties, <span>sky-high gas</span> prices and a <span>higher cost</span> of living could provoke 
 previous Trump supporters to turn against the president, belatedly fulfilling the assessment that 
 Trump’s decision to go to war defies the desires of his base. But that may be a long way off. After 
@@ -13,7 +13,7 @@ all, most MAGA supporters voted for the man three fucking times — and would vo
 times if they could. Concluding he was wrong about the war might mean he was wrong about other things, 
 too … and thus, they themselves were wrong to believe in his judgment so fervently.
 <span>White House Correspondents Dinner</span> was a joke. So pathetic. Trump blocks news at every 
-chance. So they have a dinner for him. WTF? WTF? WTF? Authoritarian. Our president my ass!</p>`;
+chance. So they have a dinner for him. WTF? WTF? WTF? <mark>Authoritarian</mark>. Our president my ass!</p>`;
   
 // Function to insert silusGW into divs
 function insertreadOutIntoDivs() {
