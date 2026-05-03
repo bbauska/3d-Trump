@@ -99,8 +99,8 @@ span {
   color: red;
 }
 mark {
-  background-color: HotPink;
-  color: yellow;
+  background-color: #ff6964;  /* light red, HotPink */
+  color: #006700;  /* very dark lime green */
 }
 .front {
   transform: translateZ(435px);
