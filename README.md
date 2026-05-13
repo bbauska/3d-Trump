@@ -2,6 +2,8 @@
 May 12, 2026 - Kash Patel using "I'm rubber and your glue" defense.
 Bourbon bottles handed out with his name on front. WTF?
 Lied about moral and claims not drunkard. Misconduct.
+FBI is being purged of non-MAGA lovers. Even conservatives. Especially if not. How is this legal?
+Give it to the supreme court. Fuckers, 6 of 9 make me puke.
 
 Moving more than 50 trillion dollars from the masses (middle class on down) to less than 1,000 families in America.
 
