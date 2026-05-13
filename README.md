@@ -1,11 +1,17 @@
 # 3d-Trump (Reagan/Bush/Bush ii) 40 years of Fuck You Americans! (as of March, 2026)
-Moving more than 50 trillion dollars from the masses to 1,000 families in America.
-3d readout of Trump's grift, idiocy, list of sycophants, and so much more. Sadly, Trump is fuckin' the world. Yet it all started in 1980 with Ronald 'Fuckin' Reagan. An American despot who initiated the moving of all the wealth and treasure to right-wing cunts. Use religion and lies to screw the American people.
+May 12, 2026 - Kash Patel using "I'm rubber and your glue" defense.
+Bourbon bottles handed out with his name on front. WTF?
+Lied about moral and claims not drunkard. Misconduct.
 
-Lowered taxes for the filthy rich. Blame the poor and attack immigrants. 'They' are the problem. Not the rich. Defund the social safety net. Cut schools and fund the build up of the military to keep power. Flex, flex, flex. Create carnage to get everyone's eye off the ball.
+Moving more than 50 trillion dollars from the masses (middle class on down) to less than 1,000 families in America.
+
+3d readout of Trump's grift, idiocy, list of sycophants, and so much more. Sadly, Trump is fuckin' the world. Yet it all started in 1980 with Ronald 'Fuckin' 
+Reagan. An American despot who initiated the moving of all the wealth and treasure to right-wing cunts. Use religion and lies to screw the American people.
+
+Lowered taxes for the filthy rich. Blame the poor and attack immigrants. 'They' are the problem. Not the rich. Defund the social safety 
+net. Cut schools and fund the build up of the military to keep power. Flex, flex, flex. Create carnage to get everyone's eye off the ball.
 
 Now, as in then, flood the zone with lies and disinformation. Deregulate the polluters. Cut alternative energy. Create fox news and lie, lie, lie.
-
 
 How big is this elephant? A staggering $50 trillion. That is how much the upward redistribution of income has cost American workers over the past several decades.
 
