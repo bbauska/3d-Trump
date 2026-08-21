@@ -1,3 +1,5 @@
+August 21, 2026 2:31pm Supreme Court allows Queef to build ballroom while decision is made to stop him. Dumbest black judge who ever lived. Thomas is the definition of deutsche-bag. Fucker is on the take. Insanely disquieting. Why is he alive? To fuck every American? YES, YES, YES. Except perhaps 100 of 330 million. Those are the scummiest.
+
 # 3d-Trump (Reagan/Bush/Bush ii) 40 years of Fuck You Americans! (as of March, 2026)
 May 12, 2026 - Kash Patel using "I'm rubber and your glue" defense.
 Bourbon bottles handed out with his name on front. WTF?
